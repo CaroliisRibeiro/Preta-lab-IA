@@ -8,5 +8,3 @@ Preta Lab IA
 </p>
 
 
-
-
